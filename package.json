@@ -1,0 +1,11 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp -r static dist/"
+  },
+  "repository": "https://github.com/jordankanter/one-click-hugo-cms.git",
+  "author": "Jordan Kanter <jikanter@gmail.com>",
+  "license": "MIT"
+}
